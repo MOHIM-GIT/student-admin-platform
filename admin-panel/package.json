@@ -1,0 +1,1 @@
+{"name": "admin-panel", "version": "1.0.0", "private": true, "dependencies": { "react": "^17.0.0", "react-dom": "^17.0.0", "tailwindcss": "^2.0.0", "framer-motion": "^4.0.0", "recharts": "^2.0.0" }}
